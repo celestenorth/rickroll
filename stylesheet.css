@@ -1,0 +1,27 @@
+a
+{
+	color: yellow;
+}
+
+body 
+{
+	background: #22BCE0;
+	color: white;		
+	font-family: "PT Sans", Arial;
+	font-size: 26px;
+	text-align: center;
+
+}
+
+footer
+{
+	font-size: 0.5em;
+}
+
+#video_container 
+{
+	background: white;
+	border-radius: 0.5em;
+	display: inline-block;
+	padding: 30px;
+}
